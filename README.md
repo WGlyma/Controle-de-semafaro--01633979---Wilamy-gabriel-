@@ -61,4 +61,4 @@ Modelar estados sem que fiquem grandes demais (explosão de estados)
 # ✅ Comentários Finais
 Este projeto demonstrou como técnicas de aprendizado por reforço podem ser aplicadas a problemas reais. Mesmo em uma simulação simples, foi possível observar o aprendizado do agente e os impactos positivos no desempenho do semáforo.
 
-✅ Evolução da recompensa total ao longo dos episódios
+
